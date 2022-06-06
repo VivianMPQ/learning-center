@@ -3,4 +3,5 @@
   "/instructors/:instructorId/courses/:courseId": "/courses/:courseId",
   "/courses/:courseId/scopes/:scopeId": "/scopes/:scopeId",
   "/instructors/:instructorId/courses/:courseId/scopes/:scopeId": "/scopes/:scopeId"
+
 }
